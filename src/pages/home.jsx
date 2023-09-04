@@ -1,5 +1,4 @@
 import { useEffect, useRef } from "react";
-import { Link } from "react-router-dom";
 import capsuleImg from "../assets/capsule.png";
 import earthImg from "../assets/earth.webp";
 import AboutPage from "../pages/about.jsx";
